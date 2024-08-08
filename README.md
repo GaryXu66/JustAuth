@@ -1,6 +1,14 @@
+
+
+
 <p align="center">
-	<strong>废弃，不用这个仓库了，去gitee仓库.</strong>
+	<strong><red>废弃，不用这个仓库了，去gitee仓库.</red></strong>
+  <strong><red>废弃，不用这个仓库了，去gitee仓库.</red></strong>
+  <strong><red>废弃，不用这个仓库了，去gitee仓库.</red></strong>
 </p>
+
+
+
 
 <p align="center">
 	<a href="https://www.justauth.cn"><img src="https://gitee.com/yadong.zhang/static/raw/master/JustAuth/Justauth.png" width="400"></a>
