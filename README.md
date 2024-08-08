@@ -1,4 +1,8 @@
 <p align="center">
+	<strong>废弃，不用这个仓库了，去gitee仓库.</strong>
+</p>
+
+<p align="center">
 	<a href="https://www.justauth.cn"><img src="https://gitee.com/yadong.zhang/static/raw/master/JustAuth/Justauth.png" width="400"></a>
 </p>
 <p align="center">
