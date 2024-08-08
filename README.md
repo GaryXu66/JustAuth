@@ -2,7 +2,6 @@
 
 
 <p align="center">
-  
 	<strong><red>废弃，不用这个仓库了，去gitee仓库.</red></strong>
   
   <strong><red>废弃，不用这个仓库了，去gitee仓库.</red></strong>
